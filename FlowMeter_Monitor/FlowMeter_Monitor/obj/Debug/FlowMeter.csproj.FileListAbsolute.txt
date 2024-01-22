@@ -1,0 +1,6 @@
+E:\Project\FlowMeter\FlowMeter\obj\Debug\FlowMeter.csprojAssemblyReference.cache
+E:\Project\FlowMeter\FlowMeter\obj\Debug\FlowMeter.frmMain.resources
+E:\Project\FlowMeter\FlowMeter\obj\Debug\FlowMeter.Properties.Resources.resources
+E:\Project\FlowMeter\FlowMeter\obj\Debug\FlowMeter.csproj.GenerateResource.cache
+E:\Project\FlowMeter\FlowMeter\obj\Debug\FlowMeter.exe.licenses
+E:\Project\FlowMeter\FlowMeter\obj\Debug\FlowMeter.csproj.CoreCompileInputs.cache

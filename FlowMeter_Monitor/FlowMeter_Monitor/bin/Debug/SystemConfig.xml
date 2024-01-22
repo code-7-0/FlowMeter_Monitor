@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GBK"?>
+<SystemConfig>
+  <key name="Port" value="6" />
+  <key name="Baud" value="5" />
+  <key name="Parity" value="0" />
+</SystemConfig>

@@ -1,0 +1,10 @@
+E:\Project\Caiqing\MuxLed_Monitor\DAL\bin\Release\DAL.dll
+E:\Project\Caiqing\MuxLed_Monitor\DAL\bin\Release\DAL.pdb
+E:\Project\Caiqing\MuxLed_Monitor\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\Project\Caiqing\MuxLed_Monitor\DAL\obj\Release\DAL.dll
+E:\Project\Caiqing\MuxLed_Monitor\DAL\obj\Release\DAL.pdb
+E:\Project\Shanghongliang\test\AutoAir_Monitor_test\DAL\bin\Release\DAL.dll
+E:\Project\Shanghongliang\test\AutoAir_Monitor_test\DAL\bin\Release\DAL.pdb
+E:\Project\Shanghongliang\test\AutoAir_Monitor_test\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\Project\Shanghongliang\test\AutoAir_Monitor_test\DAL\obj\Release\DAL.dll
+E:\Project\Shanghongliang\test\AutoAir_Monitor_test\DAL\obj\Release\DAL.pdb
